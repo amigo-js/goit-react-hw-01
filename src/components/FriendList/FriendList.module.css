@@ -1,0 +1,13 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.tem {
+  margin: 12px;
+  transition: transform 0.3s ease;
+}
+.tem:hover {
+  transform: scale(1.1);
+}

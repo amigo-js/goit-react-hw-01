@@ -1,0 +1,27 @@
+.container {
+  border: 2px solid black;
+  border-radius: 5%;
+  padding-top: 10px;
+  width: 150px;
+  font-weight: 700;
+}
+.avatar {
+  border-radius: 5%;
+  width: 85px;
+  margin-top: 15px;
+}
+.title {
+  font-size: 22px;
+}
+
+.status {
+  font-size: 20px;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
